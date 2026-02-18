@@ -37,7 +37,7 @@ Aplikasi ini cocok digunakan untuk kebutuhan restoran, katering, maupun studi ak
   * Detail skor setiap alternatif
   * Ringkasan hasil keputusan
 
-* 📄 **Export PDF**
+* **Export PDF**
 
   * Export laporan hasil perhitungan
   * Siap cetak
